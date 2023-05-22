@@ -167,10 +167,10 @@ const AboutMe = () => {
         <div className="sm:w-[100%]">
           <div className="mt-10 rounded-xl bg-white_gray p-6 text-lg  shadow-sm shadow-gray-600 dark:bg-primary_20 dark:shadow-black sm:m-10 sm:mt-0">
             <h1 className="mb-2 text-2xl font-bold dark:text-white_gray">
-              Full Stack Developer
+              Senior Full Stack Developer
             </h1>
             <h2 className="mb-2 text-1xl font-bold dark:text-white_gray">
-              Upwork, Oct 2020 – Jan 2023
+              OfficeAutoMata (Seattle, Washington), Jun 2021 – Apr 2023
             </h2>
             <p className="max-w-[1280px] whitespace-pre-line leading-snug">
               {displayBio1()}
@@ -178,10 +178,10 @@ const AboutMe = () => {
           </div>
           <div className="mt-10 rounded-xl bg-white_gray p-6 text-lg  shadow-sm shadow-gray-600 dark:bg-primary_20 dark:shadow-black sm:m-10 sm:mt-0">
             <h1 className="mb-2 text-2xl font-bold dark:text-white_gray">
-              Sr. Full Stack Developer
+              Senior Full Stack Developer
             </h1>
             <h2 className="mb-2 text-1xl font-bold dark:text-white_gray">
-              Marvin R. Clement, C.P.A. (Rockdale, Texas), Aug 2017 - Apr 2021
+              Extra Nerds (Athens, Ohio), Feb 2019 - Jul 2021
             </h2>
             <p className="max-w-[1280px] whitespace-pre-line leading-snug">
               {displayBio2()}
@@ -192,7 +192,7 @@ const AboutMe = () => {
               Full Stack Developer
             </h1>
             <h2 className="mb-2 text-1xl font-bold dark:text-white_gray">
-              Sparkfish (Addison, Texas), June 2013 - Aug 2017
+              Tyler Technologies (Plano, Texas), Jul 2017 - Feb 2019
             </h2>
             <p className="max-w-[1280px] whitespace-pre-line leading-snug">
               {displayBio3()}
@@ -200,10 +200,10 @@ const AboutMe = () => {
           </div>
           <div className="mt-10 rounded-xl bg-white_gray p-6 text-lg  shadow-sm shadow-gray-600 dark:bg-primary_20 dark:shadow-black sm:m-10 sm:mt-0">
             <h1 className="mb-2 text-2xl font-bold dark:text-white_gray">
-              Web Developer
+              Full Stack Developer/Web Developer
             </h1>
             <h2 className="mb-2 text-1xl font-bold dark:text-white_gray">
-              Austin Software® (Austin, Texas), Mar 2011 - Jun 2013
+              Cehck Point Software Technologies Ltd (Irving, Texas), Aug 2013 - Jul 2017
             </h2>
             <p className="max-w-[1280px] whitespace-pre-line leading-snug">
               {displayBio4()}
