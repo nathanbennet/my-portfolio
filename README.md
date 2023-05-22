@@ -10,7 +10,7 @@
 ---
 
 <p align="center"> Website: https://natthan-bennett.netlify.app/</p>
-<p align="center">
+<!-- <p align="center">
   <img alt="Home" src="./public/assets/images/pages/home/home-page.png" width="47%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="About-Me" src="./public/assets/images/pages/about-me/about-me-page.png" width="47%">
@@ -21,7 +21,7 @@
   <img alt="Home" src="./public/assets/images/pages/projects/projects-page.png" width="47%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="About-Me" src="./public/assets/images/pages/contact/contact-page.png" width="47%">
-</p>
+</p> -->
 
 
 ---
