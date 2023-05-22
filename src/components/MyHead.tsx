@@ -8,7 +8,7 @@ interface MyHeadProps {
 }
 
 // const IMG_SRC_DEFAULT =
-//   'https://raw.githubusercontent.com/dylanbuchi/portfolio-next/main/public/assets/images/pages/home/home-page.jpg?token=GHSAT0AAAAAABLHAUH2IZPW4OMLFJZBGKOEYZVVDRQ';
+//   'https://raw.githubusercontent.com/nathanbennet/my-portfolio/main/public/assets/images/pages/home/home-page.jpg?token=GHSAT0AAAAAABLHAUH2IZPW4OMLFJZBGKOEYZVVDRQ';
 
 const URL_DEFAULT = 'https://natthan-bennett.netlify.app/';
 

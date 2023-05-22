@@ -123,7 +123,7 @@ const PROJECTS: { [name: string]: ProjectType } = {
       TECHS.typeScript,
       TECHS.redux,
       TECHS.materialUi,
-      TECHS.html,
+      TECHS.nodejs,
     ],
     imgSrc: `${PROJECT_IMAGE_SRC_BASE_URL}/176925671-87c2daa4-115f-4440-acc7-218e2146701d.png`,
     demoLink: 'https://big-movies.netlify.app/',

@@ -12,7 +12,7 @@ interface ProjectsPageProps {
 }
 const ProjectsPage: NextPage<ProjectsPageProps> = ({ projectData, GIFS }) => {
   const imageSrc =
-    'https://raw.githubusercontent.com/dylanbuchi/portfolio-next/main/public/assets/images/pages/projects/projects-page.jpg?token=GHSAT0AAAAAABLHAUH3FWJ2EW4WYWAO2XOIYZVVJ4Q';
+    'https://raw.githubusercontent.com/nathanbennet/my-portfolio/main/public/assets/images/pages/projects/projects-page.jpg?token=GHSAT0AAAAAABLHAUH3FWJ2EW4WYWAO2XOIYZVVJ4Q';
   const itemToSetGif = '31-days-of-code';
 
   const setUpProjects = useCallback(() => {

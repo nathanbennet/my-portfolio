@@ -4,7 +4,7 @@ interface SocialLinkProps {
   website: string;
 }
 
-export const USERNAME = 'dylanbuchi';
+export const USERNAME = 'nathanbennet';
 
 export const SOCIAL_LINKS: Record<string, SocialLinkProps> = {
   linkedin: {
