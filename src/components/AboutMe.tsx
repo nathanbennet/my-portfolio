@@ -211,7 +211,7 @@ const AboutMe = () => {
           </div>
         </div>
         <div className="mt-10">
-          <Divider name="Certificates" />
+          {/* <Divider name="Certificates" /> */}
         </div>
         <div className=" mt-2 flex justify-center">
           <div className="w-[90%] sm:w-[40%] ">

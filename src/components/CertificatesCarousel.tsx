@@ -158,7 +158,7 @@ const CertificatesCarousel = () => {
         target="_blank"
         rel="noopener noreferrer"
       >
-        <Image
+        {/* <Image
           className={certificateStyles}
           src={certificates.awscertifiedcloudpractitioner.src}
           alt="certificate"
@@ -168,7 +168,7 @@ const CertificatesCarousel = () => {
             maxWidth: '100%',
             height: 'auto',
           }}
-        />
+        /> */}
       </Link>
     </Slider>
   );
