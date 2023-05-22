@@ -5,7 +5,7 @@ import python4Everybody from '/public/assets/images/certificates/python4everybod
 import scriptPython from '/public/assets/images/certificates/script-python.jpg';
 import djangoWeb from '/public/assets/images/certificates/build-web-app-django.jpeg';
 import djangoWebTech from '/public/assets/images/certificates/django-web-techs.jpeg'; */
-import awscertifiedcloudpractitioner from '../../../public/assets/images/certificates/aws-certified-cloud-practitioner.jpg';
+// import awscertifiedcloudpractitioner from '../../../public/assets/images/certificates/aws-certified-cloud-practitioner.jpg';
 
 export const certificates = {
   /* googleIt,
@@ -15,5 +15,5 @@ export const certificates = {
   scriptPython,
   djangoWeb,
   djangoWebTech, */
-  awscertifiedcloudpractitioner,
+  // awscertifiedcloudpractitioner,
 };
