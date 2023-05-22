@@ -6,6 +6,7 @@ import MyHead from 'components/MyHead';
 const HomePage: NextPage = () => {
   return (
     <>
+    
       <MyHead />
       <Home />
     </>
